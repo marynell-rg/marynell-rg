@@ -1,6 +1,6 @@
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">Hola, soy Marynell</h3>
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me: marynellromero@gmail.com</h3>
 <p align="left">
 </p>
 
